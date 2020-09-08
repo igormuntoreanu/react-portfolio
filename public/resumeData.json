@@ -1,0 +1,187 @@
+{
+  "main": {
+    "name": "Igor Muntoreanu",
+    "occupation": "SAP Fullstack Developer",
+    "description": "ABAP Developer since 2010 with experience in various modules",
+    "image": "profilecircle.png",
+    "bio": "My name is Igor, I'm a SAP Fullstack Developer with 10+ years of experience. Currently I'm working in Germany by eXXcellent GmbH",
+    "contactmessage": "Get in touch with me to receive further details",
+    "email": "igormuntoreanu@yahoo.com.br",
+    "phone": "+49 0170 2632364",
+    "address": {
+      "street": "Beim Alten Fritz 2",
+      "city": "Ulm - Germany",
+      "state": "Baden-Württemberg",
+      "zip": "89075"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/uc?id=1yI9LDBeBqTk2V-GbVy_nLjZFEUx4-cSy&export=download",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/igor-muntoreanu/",
+        "className": "fa fa-linkedin"
+      },      
+      {
+        "name": "github",
+        "url": "https://github.com/igormuntoreanu",
+        "className": "fa fa-github"
+      },      
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/igor.muntoreanu",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/muntoreanu/",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "SAP Fiori Elements, OData, Gateway, HANA CDS Views, BOPF, SAP UI5, Web UI, BSP, BOL, Web Dynpro, IDOC inbound and outbound, ALV Grid/List/Tree/OO, ABAP OO, Module Pools, Function Modules, Badis, Bapis, Batch Inputs, User/Customer/Field/Screen-Exits, Enhancements, Interfaces, Macros, HR Payroll Exits, SAP Script, Smart forms, SOLMAN, SAP Performance Tuning, etc.",
+    "education": [
+      {
+        "school": "Faculdade de Informática e Administração Paulista - FIAP",
+        "degree": "MBA - Business Management Systems ERP/SAP",
+        "graduated": "2013",
+        "description": "from 2012 To 2013"
+      },
+      {
+        "school": "Faculdade de Tecnologia de São Paulo - FATEC-SP",
+        "degree": "Technologist/Bacharelor - Data Processing",
+        "graduated": "2010",
+        "description": "from 2007 To 2010"
+      }      
+    ],
+    "work": [
+      {
+        "company": "eXXcellent GmbH",
+        "title": "SAP Architect",
+        "years": "February 2020 - Present",
+        "description": "Working mainly with SAP CRM and OData Services in Gateway as a technical developer"
+      },
+      {
+        "company": "T-Systems",
+        "title": "SAP Consultant",
+        "years": "December 2015 - January 2020",
+        "description": "Worked as a technical developer with the SAP CRM, MM and SD modules"
+      },
+      {
+        "company": "Accenture",
+        "title": "SAP Software Engineering",
+        "years": "January 2010 - December 2015",
+        "description": "Worked as a technical developer in many Projects and SAP Modules"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SAP ABAP",
+        "level": "100%"
+      },
+      {
+        "name": "SAP ABAP OO",
+        "level": "100%"
+      },      
+      {
+        "name": "SAP OData Gateway",
+        "level": "95%"
+      },
+      {
+        "name": "SAP UI5",
+        "level": "70%"
+      },
+      {
+        "name": "CDS Views",
+        "level": "90%"
+      },
+      {
+        "name": "SAP Fiori Elements",
+        "level": "80%"
+      },
+      {
+        "name": "SAP WebUI and Webdynpro",
+        "level": "90%"
+      },
+      {
+        "name": "Integration - IDOC, RFC, etc",
+        "level": "90%"
+      },
+      {
+        "name": "SAP Forms - SAPScript & Smartforms",
+        "level": "100%"
+      }      
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Porsche",
+        "category": "Working as SAP Architect, building OData services to bring data from the CRM to the new Apps made in AngularJS. Some process examples: Business Partner, Vehicles, Data Privacy and Work List",
+        "image": "porsche.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "Deutsche Telekom: One ERP, Ebanf and ZMKM",
+        "category": "One ERP: SAP ABAP Consultant focused in the SD/MM module and IDOC interfaces for inbound Sales Order, Debitors and Creditors creation. Ebanf: ABAP Consultant focused in Web Dynpro development for a central portal(SD and MM Modules). [...]",
+        "image": "telekom.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "BRF WMS and TMS",
+        "category": "SAP WM module implementation. Performed activities: programs for collectors machine to BRF factories[...]",
+        "image": "brf.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "Cordillera Latin America",
+        "category": "SAP ABAP Developer for lots of different processes like Warehouse and Transportation, Order-to-Cash, FI/CO, Make (PM and QM) and Source(MM). I have worked with interfaces, IDOCs, reports, Forms, Customer Exits, Pricing Formulas, Bank Interfaces, etc. Implementation of and IDOC Inbound for Sales Order Process.",
+        "image": "unilever.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "Bacardi",
+        "category": "First Bacardi SAP implementation in Brazil, development of interfaces running with IDOCs and PI/PO. Mostly we took care of the VA for SD and developed an inbound IDOC to create sales order in the system.",
+        "image": "bacardi.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "Bunge",
+        "category": "SAP Technical Leader in Recife – BR and Technical designer developer. Most of the developments were made for the SD module.",
+        "image": "bunge.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },      
+      {
+        "title": "Dreyfus",
+        "category": "SAP Workflow development for VA01/VA02 to approve the Sales and the discounts.",
+        "image": "dreyfus.jpg",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },
+      {
+        "title": "Natura Manter",
+        "category": "Implementation and Improvements of ABAP solutions (PP,MM,WM,QM,SD,HR, FI and APO SAP modules) for Brazil and Mexico.",
+        "image": "natura.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      },   
+      {
+        "title": "Multi-Clients Cell",
+        "category": "This was the first project where I made the intern ABAP academy and then help within several projects inside the Multi Cell department.",
+        "image": "multi.png",
+        "url": "https://igormuntoreanu.herokuapp.com/experience"
+      }                             
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Igor has excellent developer skills, such as logical thinking and design and pro activity[...]",
+        "user": "Ricardo Campanate"
+      },
+      {
+        "text": "Igor é um profissional extremamente habilidoso e auto didata no que faz. Não mede esforços para os estudos e em se capacitar para entregar sempre resultados espetaculares[...]",
+        "user": "Deborah Vaicekauskis Pupo"
+      }
+    ]
+  }
+}
